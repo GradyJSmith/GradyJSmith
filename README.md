@@ -33,7 +33,7 @@
 
 ## Projects
 
-### 🖥️ [Portfolio Site](https://gradyjsmith.github.io)
+### 🖥️ [Portfolio Site](https://gradyjsmith.github.io/gradyjsmith.dev)
 Self-contained HTML/CSS/JS portfolio. No frameworks, no dependencies.
 
 ### 📸 Screenshot Capture Tool *(in progress)*
