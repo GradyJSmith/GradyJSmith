@@ -2,7 +2,7 @@
 
 # Grady Smith
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-GradyJSmith.github.io-0d1117?style=flat-square&logo=github&logoColor=white)](https://gradyjsmith.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-GradyJSmith.github.io-0d1117?style=flat-square&logo=github&logoColor=white)](https://gradyjsmith.github.io/gradyjsmith.dev/)
 [![Email](https://img.shields.io/badge/Email-grady.smith.dev%40gmail.com-0d1117?style=flat-square&logo=gmail&logoColor=white)](mailto:grady.smith.dev@gmail.com)
 [![MakerWorld](https://img.shields.io/badge/MakerWorld-%40Grady__J__Smith-1A73E8?style=flat-square&logoColor=white)](https://makerworld.com/en/@Grady_J_Smith)
 [![Printables](https://img.shields.io/badge/Printables-%40BloYoMind-FA6831?style=flat-square&logo=prusa&logoColor=white)](https://www.printables.com/@BloYoMind_1395292)
