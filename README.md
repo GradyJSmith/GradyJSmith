@@ -33,16 +33,16 @@
 
 ## Projects
 
-### 🖥️ [Portfolio Site](https://gradyjsmith.github.io/gradyjsmith.dev)
+### [Portfolio Site](https://gradyjsmith.github.io/gradyjsmith.dev)
 Self-contained HTML/CSS/JS portfolio. No frameworks, no dependencies.
 
-### 📸 Screenshot Capture Tool *(in progress)*
+### Screenshot Capture Tool *(in progress)*
 Windows screenshot utility in C++ using the Win32 API. Stepping stone toward a larger open-source Linux desktop tool.
 
-### 🤖 Arduino Robotics
+### Arduino Robotics
 Embedded projects — sensor interfacing, motor control, custom mechanical assemblies.
 
-### 🖨️ 3D Print Designs
+### 3D Print Designs
 Engineering-focused parametric models published on [MakerWorld](https://makerworld.com/en/@Grady_J_Smith) and [Printables](https://www.printables.com/@BloYoMind_1395292).
 
 ---
