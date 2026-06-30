@@ -11,9 +11,6 @@
 
 ---
 
-# I AM MOVING TO GITLAB:
-**Because of Microsoft's influence on GitHub, I am putting all new repositories in GitLab, which is run by an independant company. All of my previous repos will stay, but all development (except for VirOS) will be on GitLab. You can check out my GitLab profile [here](https://gitlab.com/BloYoMind)**
-
 ## Stack
 
 ### Languages
