@@ -44,13 +44,3 @@ Embedded projects — sensor interfacing, motor control, custom mechanical assem
 
 ### 3D Print Designs
 Engineering-focused parametric models published on [MakerWorld](https://makerworld.com/en/@Grady_J_Smith) and [Printables](https://www.printables.com/@BloYoMind_1395292).
-
----
-
-<div align="center">
-
-![Grady's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GradyJSmith&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GradyJSmith&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e)
-
-</div>
