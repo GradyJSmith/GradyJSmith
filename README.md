@@ -44,3 +44,8 @@ Embedded projects — sensor interfacing, motor control, custom mechanical assem
 
 ### 3D Print Designs
 Engineering-focused parametric models published on [MakerWorld](https://makerworld.com/en/@Grady_J_Smith) and [Printables](https://www.printables.com/@BloYoMind_1395292).
+
+### Lethal Company Mods
+BepInEx/Harmony mods for Lethal Company, published on Thunderstore.
+- **[Lethal Weights](https://github.com/GradyJSmith/LethalWeights)** — makes items weightless and lets you float. [Thunderstore](https://thunderstore.io/c/lethal-company/p/GStarMods/LethalWeights)
+- **[NotLethalFall](https://github.com/GradyJSmith/NotLethalFall)** — removes fall damage; client/server mod with anti-cheat that kicks players who don't have it installed. [Thunderstore](https://thunderstore.io/c/lethal-company/p/GStarMods/NotLethalFall)
