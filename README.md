@@ -28,6 +28,7 @@
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white)
 ![SolidWorks](https://img.shields.io/badge/SolidWorks-E2231A?style=flat-square&logo=dassaultsystemes&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Onshape](https://img.shields.io/badge/Onshape-1265DC?style=flat-square&logo=data:image/svg+xml;base64,...&logoColor=white)
 
 ---
 
@@ -40,7 +41,7 @@ Self-contained HTML/CSS/JS portfolio. No frameworks, no dependencies.
 Embedded projects — sensor interfacing, motor control, custom mechanical assemblies.
 
 ### 3D Print Designs
-Engineering-focused parametric models published on [MakerWorld](https://makerworld.com/en/@Grady_J_Smith) and [Printables](https://www.printables.com/@BloYoMind_1395292).
+Engineering-focused parametric models published on [MakerWorld](https://makerworld.com/en/@Grady_J_Smith), [Onshape](https://cad.onshape.com/) and [Printables](https://www.printables.com/@BloYoMind_1395292).
 
 ### Lethal Company Mods
 BepInEx/Harmony mods for Lethal Company, published on Thunderstore.
