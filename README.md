@@ -36,9 +36,6 @@
 ### [Portfolio Site](https://gradyjsmith.github.io/gradyjsmith.dev)
 Self-contained HTML/CSS/JS portfolio. No frameworks, no dependencies.
 
-### Screenshot Capture Tool *(in progress)*
-Windows screenshot utility in C++ using the Win32 API. Stepping stone toward a larger open-source Linux desktop tool.
-
 ### Arduino Robotics
 Embedded projects — sensor interfacing, motor control, custom mechanical assemblies.
 
